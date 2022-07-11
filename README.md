@@ -11,7 +11,7 @@ Mainly made in C#, C++
 
 The Main API used is from WeAreDevs , Credits to the API developer from WRD.
 
-The Executor is virus free, not malicious malware, virus is coded in this Executor.
+The Executor is virus free, no malicious malware, virus is coded in this Executor.
 
 VirusTotal (1) Threat because the Executor Injects Scripts and it flags in every Roblox Executor as malicious when its not.
 
